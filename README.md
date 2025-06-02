@@ -49,17 +49,23 @@ Estas son las principales tecnologías empleadas en el desarrollo del proyecto:
 ## 🔧 Instalación y Uso
 
 1. **Clona el repositorio:**
+```
 git clone https://github.com/Raaspy/Nest-Api.git
-cd nest-api
+```
 
-2. **Instala las dependencias:**
+3. **Instala las dependencias:**
+```
 npm install
+```
 
-3. **Levanta el servidor:**
+5. **Levanta el servidor:**
+```
 npm run start:dev
-
-4. **En PostMan, La API estará disponible en:**
+```
+6. **En PostMan, La API estará disponible en:**
+```
 http://localhost:3000/productos
+```
 
 ---
 
